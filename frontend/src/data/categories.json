@@ -1,0 +1,22 @@
+[
+  {
+    "id": "digital-painting",
+    "name": "Digital Painting",
+    "description": "Hand-painted digital artwork"
+  },
+  {
+    "id": "abstract",
+    "name": "Abstract",
+    "description": "Abstract compositions and designs"
+  },
+  {
+    "id": "illustration",
+    "name": "Illustration",
+    "description": "Character and concept illustrations"
+  },
+  {
+    "id": "landscape",
+    "name": "Landscape",
+    "description": "Digital landscape artworks"
+  }
+]

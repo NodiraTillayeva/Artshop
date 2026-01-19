@@ -1,0 +1,98 @@
+[
+  {
+    "id": "artwork-1",
+    "title": "Sunset Dreams",
+    "description": "A vibrant digital painting capturing the essence of a dreamy sunset with warm colors and soft gradients. This piece explores the beauty of nature through digital brushstrokes.",
+    "price": 350,
+    "category": "digital-painting",
+    "medium": "Digital",
+    "dimensions": "3000x4000px",
+    "year": 2024,
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1549887534-1541e9326642?w=400&h=500&fit=crop",
+      "full": "https://images.unsplash.com/photo-1549887534-1541e9326642?w=1200&h=1500&fit=crop"
+    },
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "artwork-2",
+    "title": "Abstract Geometry",
+    "description": "An exploration of geometric shapes and vibrant colors, creating a dynamic abstract composition that draws the eye and stimulates the imagination.",
+    "price": 280,
+    "category": "abstract",
+    "medium": "Digital",
+    "dimensions": "2500x2500px",
+    "year": 2024,
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=400&fit=crop",
+      "full": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200&h=1200&fit=crop"
+    },
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "artwork-3",
+    "title": "Mountain Vista",
+    "description": "A serene landscape showcasing majestic mountains at dawn, painted with intricate details and atmospheric perspective to create depth and tranquility.",
+    "price": 420,
+    "category": "landscape",
+    "medium": "Digital",
+    "dimensions": "4000x2500px",
+    "year": 2023,
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=250&fit=crop",
+      "full": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=750&fit=crop"
+    },
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "artwork-4",
+    "title": "Character Study",
+    "description": "A detailed character illustration featuring expressive features and dynamic lighting. This piece showcases digital painting techniques and storytelling through visual art.",
+    "price": 380,
+    "category": "illustration",
+    "medium": "Digital",
+    "dimensions": "2800x3500px",
+    "year": 2024,
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1578301978162-7aae4d755744?w=400&h=500&fit=crop",
+      "full": "https://images.unsplash.com/photo-1578301978162-7aae4d755744?w=1200&h=1500&fit=crop"
+    },
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "artwork-5",
+    "title": "Urban Dreams",
+    "description": "A contemporary abstract piece inspired by city lights and modern architecture, blending digital techniques with artistic expression.",
+    "price": 310,
+    "category": "abstract",
+    "medium": "Digital",
+    "dimensions": "3200x2400px",
+    "year": 2024,
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=400&h=300&fit=crop",
+      "full": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1200&h=900&fit=crop"
+    },
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": "artwork-6",
+    "title": "Ocean Depths",
+    "description": "A mesmerizing digital painting exploring the mysterious beauty of underwater worlds with flowing forms and deep blue hues.",
+    "price": 390,
+    "category": "digital-painting",
+    "medium": "Digital",
+    "dimensions": "3500x2800px",
+    "year": 2023,
+    "images": {
+      "thumbnail": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=320&fit=crop",
+      "full": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1200&h=960&fit=crop"
+    },
+    "available": false,
+    "featured": false
+  }
+]
