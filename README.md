@@ -81,47 +81,6 @@ Artshop/
 - Node.js 18+ installed
 - npm or yarn package manager
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   cd Artshop
-   ```
-
-2. **Install all dependencies**
-   ```bash
-   npm run install:all
-   ```
-   Or install separately:
-   ```bash
-   # Root dependencies
-   npm install
-
-   # Frontend dependencies
-   cd frontend && npm install
-
-   # Backend dependencies
-   cd ../backend && npm install
-   ```
-
-3. **Configure environment variables**
-
-   Create `.env` file in the `backend/` directory (copy from `.env.example`):
-   ```env
-   NODE_ENV=development
-   PORT=5000
-   CORS_ORIGIN=http://localhost:3000
-
-   # Email Configuration (optional for development)
-   EMAIL_SERVICE=gmail
-   EMAIL_USER=your-email@gmail.com
-   EMAIL_PASSWORD=your-app-password
-   EMAIL_FROM=noreply@artshop.com
-   EMAIL_TO=artist@example.com
-   ```
-
-   **Note**: During development without email configuration, contact form submissions will be logged to the console instead of sending emails.
-
 ### Running the Application
 
 #### Development Mode
