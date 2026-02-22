@@ -17,7 +17,7 @@ const Home = () => {
             to="/gallery"
             className="inline-block bg-primary-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors"
           >
-            View Gallery
+            Visit My Booth
           </Link>
         </div>
       </section>
@@ -31,7 +31,7 @@ const Home = () => {
           <div className="text-center text-gray-600">
             <p className="mb-4">Featured artworks will be displayed here.</p>
             <Link to="/gallery" className="text-primary-600 hover:underline">
-              Browse all artworks →
+              Visit the booth →
             </Link>
           </div>
         </div>
